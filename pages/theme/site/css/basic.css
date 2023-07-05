@@ -1,0 +1,218 @@
+/*----- Main -----*/
+html {
+  scroll-behavior: smooth;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+}
+
+a:hover {text-decoration: none;}
+
+/*----- Forms -----*/
+
+.form-padrao {
+  transition: 0.3s ease;
+  border: none;
+  padding: 28px;
+  border-radius: 10px;
+  background: none;
+  font-weight: 400;
+  color: #212121;
+  box-shadow: inset 6px 6px 10px rgba(209, 217, 230, 0.7), inset -6px -6px 10px rgba(255, 255, 255);
+}
+
+.textarea-expand, .textarea-expand textarea {height: 100%;}
+.textarea-flexdiv {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  position: relative;
+}
+
+textarea {
+  border: none;
+  padding: 28px;
+  border-radius: 10px;
+  background: #E8E8E8;
+  font-weight: 400;
+  color: #212121;
+  resize: none;
+  transition: 0.3s ease;
+}
+
+textarea:focus {
+  color: #212121;
+  background-color: #fff;
+  outline: none;
+  box-shadow: none;
+}
+
+.form-padrao:focus {
+  transition: 0.3s ease;
+    color: #212121;
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: inset 3px 3px 5px rgba(209, 217, 230, 0.7), inset -3px -3px 5px rgba(255, 255, 255);
+}
+
+.form-mailing {
+  background: #F7F4D6;
+}
+
+.form-padrao.select {
+  padding: 8px 45px 8px 32px;
+  height: 56px;
+}
+
+.form-container {
+  line-height: 1.0;
+  padding-top: 5px;
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.form-container input {
+  transition: 0.3s ease;
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.form-checkmark {
+  transition: 0.3s ease;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  border: 2px solid #212121;
+  border-radius: 6px;
+}
+
+.form-container:hover input ~ .form-checkmark {
+  transition: 0.3s ease;
+  background-color: rgba(2, 26, 54, 0.1);
+}
+
+.form-container input:checked ~ .form-checkmark {
+  transition: 0.3s ease;
+  background-color: #021A36;
+  border-color: #021A36;
+}
+
+.form-checkmark:after {
+  content: "\f00c";
+  font-family: 'FontAwesome';
+  display: none;
+}
+
+.form-container input:checked ~ .form-checkmark:after {display: block;}
+
+.form-container .form-checkmark:after {
+  color: #ffffff;
+  font-size: 17px;
+  width: 20px;
+  height: 20px;
+  padding-left: 0.5px;
+  padding-left: 2px;
+  padding-top: 3px;
+}
+
+select::-ms-expand {
+display: none !important;
+}
+
+select {
+  -webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+
+.form-drop-container {position:relative}
+
+.form-drop-container .form-group:after {
+  content: '>';
+  font-weight: 700;
+  font: 24px "Consolas", monospace;
+  color: #687487;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 20px;
+  top: 15px;
+  position: absolute;
+  pointer-events: none;
+}
+
+
+.icon-form-wrap {
+  transition: 0.3s ease;
+  border-radius: 15px;
+  background: #F0F2F6;
+}
+
+.icon-form-wrap span {
+  color: #687487;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.form-icon {
+  margin-left: 24px;
+  background: none !important;
+  margin-bottom: 30px;
+  border: none;
+  padding: 32px;
+  font-weight: 700;
+  color: #687487;
+}
+
+.icon-form-wrap:focus-within {
+  transition: 0.3s ease;
+  color: #687487;
+  background-color: #fff;
+  box-shadow: 0px 15px 25px #CEDFF8;
+}
+
+.form-icon:focus {
+  box-shadow: none;
+  border: none;
+  outline: none;
+}
+
+i {font-family:'FontAwesome';}
+
+/*-- Botão Flutuante --*/
+
+.float-btn {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25D366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  box-shadow: 0 10px 20px rgba(32, 32, 35, 0.3);
+}
+
+.my-float {
+  margin-top: 15px;
+  font-size: 30px;
+  transition: 0.3s ease;
+}
