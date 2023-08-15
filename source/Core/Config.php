@@ -3,7 +3,7 @@
 namespace Source\Core;
 
 class Config {
-  const BASE_URL = "https://demo.clinicametavita.com.br";
+  const BASE_URL = "https://www.clinicametavita.com.br";
   const BASE_URL_ADMIN = Config::BASE_URL . "/admin";
   const BASE_URL_CUSTOMER = Config::BASE_URL . "/cliente";
   const BASE_URL_INSTRUCTOR = Config::BASE_URL . "/area-do-profissional";

@@ -1,0 +1,1 @@
+[15-Aug-2023 02:20:07 UTC] PHP Deprecated:  Non-static method Source\Core\Auth::setSecurityTokenUsed() should not be called statically in /home/clinicametavitac/public_html/source/Controllers/AdminController.php on line 65

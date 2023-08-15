@@ -1,8 +1,8 @@
 <?php
 header('HTTP/1.1 403 FORBIDDEN');
 
-$root = "https://demo.clinicametavita.com.br";
-$adminRoot = "https://demo.clinicametavita.com.br/admin";
+$root = "https://www.clinicametavita.com.br";
+$adminRoot = "https://www.clinicametavita.com.br/admin";
 
 ?>
 

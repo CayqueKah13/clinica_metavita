@@ -52,19 +52,23 @@ require_once('header.php');
 
 ?>
 
-<div class="container">
-			<div class="jcarousel-wrapper">
-					<div class="jcarousel">
-							<ul>
-									<li ><img src="<?= $themePath ?>/assets/img/slider"></li>
-									<li ><img src="<?= $themePath ?>/assets/img/slider"></li>
-									<li ><img src="<?= $themePath ?>/assets/img/slider"></li>
-																	
-							</ul>
+	<header id="hero" class="bg-lightblue hero-area">
+		<div class="header">
+			<div class="container">
+				<div class="row">
+					<div class="col-xl-5 col-12">
+						<div class="hero-text">
+							<h1>Pessoas transformam o mundo, nós transformamos pessoas.</h1>
+							<p class="mt-4">Queremos criar um mundo onde pessoas possam viver incondicionalmente e desfrutar de uma nova perspectiva do senso comum.</p>
+							<a class="btn hero-btn mt-4" href="<?= Config::BASE_URL ?>/servicos">COMECE POR AQUI</a>
+						</div>
 					</div>
-					<a href="#" class="jcarousel-control-prev">&lsaquo;</a>
-					<a href="#" class="jcarousel-control-next">&rsaquo;</a>
-					<p class="jcarousel-pagination"></p>
+					<div class="col-lg-7 col-12">
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
 
 	<!-- A Dieta Ideal -->
 

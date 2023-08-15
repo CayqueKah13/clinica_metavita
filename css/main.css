@@ -943,17 +943,14 @@
 
            @media screen and (min-width: 601px) {
             .mobile-version {
-              display: none;
+                display: none;
             }
           }
            @media only screen and (max-width: 600px) {
             .desktop-version {
                 display: none;
             }
-            .mobile-version {
-                
-                display: block;
-            }
+
             {
                 #owl-hero {
                     height: 500px; } }

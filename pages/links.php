@@ -9,7 +9,7 @@ use \Source\Core\Config;
 $links = [
 	[
 		"title" => "Quero informações sobre consulta",
-		"link" => "https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20sobre%20o%20acompanhamento%20com%20os%20nutricionistas%20da%20MetaFamily!"
+		"link" => "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os."
 	],
 	[
 		"title" => "Conheça um pouco da experiência do atendimento MetaVita!",
@@ -22,7 +22,7 @@ $links = [
 	],
 	[
 		"title" => "Visite nosso site!",
-		"link" => "https://https://demo.clinicametavita.com.br/"
+		"link" => "https://www.clinicametavita.com.br/links"
 	],
 	[
 		"title" => "Quero receber as dicas exclusivas da MetaFamily",
@@ -38,7 +38,7 @@ $links = [
 $themePath = Config::BASE_URL.'/pages/theme/site';
 $customerUser = Session::getCustomerUser();
 
-$whatsappLink = "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+site+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+as+consultas+com+%5Bdigite+o+profissional+que+gostaria+de+se+consultar%3A+M%C3%A9dico+Esportivo%2C+Psic%C3%B3logo%2C+Fisioterapeuta%2C+Nutricionista+Esportivo+e%2Fou+Acupunturista%5D.";
+$whatsappLink = "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os.";
 
 ?>
 
