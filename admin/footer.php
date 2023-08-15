@@ -14,7 +14,7 @@ use \Source\Core\Session;
   <footer class="page-footer pt-0 mt-5">
     <div class="footer-copyright py-3 text-center">
       <div class="container-fluid">
-        © <?php echo date('Y'); ?> Desenvolvido por <a href="https://loriendesign.com.br/" target="_blank"> Lorien Design </a>
+        © <?php echo date('Y'); ?> Desenvolvido por <a href="https://www.vianti.com.br" target="_blank"> Vianti </a>
       </div>
     </div>
   </footer>

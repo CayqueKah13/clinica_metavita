@@ -23,11 +23,11 @@ class Config {
 
 
   // MAILER
-   const MAILER_OPTION_HOST = 'smtp.gmail.com';
-   const MAILER_OPTION_PORT = 587;
-   const MAILER_OPTION_SENDER_EMAIL = 'metavita.nutri@gmail.com';
-   const MAILER_OPTION_SENDER_PASSWORD = 'hrgjbiungdzuzvas';
-   const MAILER_OPTION_SENDER_NAME = 'MetaVita';
+  // const MAILER_OPTION_HOST = 'smtp.gmail.com';
+  // const MAILER_OPTION_PORT = 587;
+  // const MAILER_OPTION_SENDER_EMAIL = 'metavita.nutri@gmail.com';
+  // const MAILER_OPTION_SENDER_PASSWORD = 'hrgjbiungdzuzvas';
+  // const MAILER_OPTION_SENDER_NAME = 'MetaVita';
   // MAILER
   // const MAILER_OPTION_HOST = 'smtp.gmail.com';
   // const MAILER_OPTION_PORT = 587;
