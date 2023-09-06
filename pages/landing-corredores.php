@@ -11,7 +11,7 @@ use \Source\Core\Config;
 $currentTab = "services";
 require_once('header.php');
 
-$whatsappLink = "https://wa.me/5511973755967?text=Informa%C3%A7%C3%B5es%20da%20consulta%20com%20a%20nutri%20Mari.";
+$whatsappLink = "https://wa.me/5511900000000?text=Informa%C3%A7%C3%B5es%20da%20consulta%20com%20a%20nutri%20Mari.";
 
 ?>
 <style media="screen">

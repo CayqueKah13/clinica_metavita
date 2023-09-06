@@ -19,7 +19,7 @@ class Config {
   // CONTACT
   const WHATSAPP_URL = "https://api.whatsapp.com/send?phone=55";
   const WHATSAPP_NUMBER = "(11) 0000-0000";
-  const WHATSAPP_MESSAGE = "Olá, estava no site de vocês e gostaria de mais informações!";
+  const _MESSAGE = "Olá, estava no site de vocês e gostaria de mais informações!";
 
 
   // MAILER

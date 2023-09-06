@@ -38,7 +38,7 @@ $links = [
 $themePath = Config::BASE_URL.'/pages/theme/site';
 $customerUser = Session::getCustomerUser();
 
-$whatsappLink = "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os.";
+$whatsappLink = "https://wa.me/5511900000000?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os.";
 
 ?>
 

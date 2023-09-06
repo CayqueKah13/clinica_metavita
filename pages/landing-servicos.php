@@ -14,7 +14,7 @@ $themePath = Config::BASE_URL.'/pages/theme/site';
 $themePath2 = Config::BASE_URL.'/pages/theme/lp-servicos';
 
 
-$whatsappLink = "https://wa.me/5511973755967?text=Informa%C3%A7%C3%B5es%20da%20consulta";
+$whatsappLink = "https://wa.me/5511900000000?text=Informa%C3%A7%C3%B5es%20da%20consulta";
 
 ?>
 

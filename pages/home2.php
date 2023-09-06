@@ -88,7 +88,7 @@ require_once('header.php');
 											<h2 class="carousel-title secondary-font"></h2>
 											<h5 class="carousel-text secondary-font"></h5>
 											<div class="pix-slider-btn pix-padding-top-200">
-												<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+												<a href="https://api.whatsapp.com/send?phone=551100000-0000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 											   <span class="pix_edit_text">
 												<strong>Saiba Mais</strong>
 											   </span>
@@ -109,7 +109,7 @@ require_once('header.php');
 											<h2 class="carousel-title secondary-font"></h2>
 											<h5 class="carousel-text secondary-font"></h5>
 											<div class="pix-slider-btn pix-padding-top-200">
-												<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+												<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 													<span class="pix_edit_text">
 														<strong>Saiba Mais</strong>
 													</span>
@@ -130,7 +130,7 @@ require_once('header.php');
 											<h2 class="carousel-title secondary-font"></h2>
 											<h5 class="carousel-text secondary-font"></h5>
 											<div class="pix-slider-btn pix-padding-top-200">
-												<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+												<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 											   <span class="pix_edit_text">
 												<strong>Saiba Mais</strong>
 											   </span>
@@ -174,7 +174,7 @@ require_once('header.php');
 									<h2 class="carousel-title secondary-font"></h2>
 									<h5 class="carousel-text secondary-font"></h5>
 									<div class="pix-slider-btn btn-xs pix-padding-top-100">
-										<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+										<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 									   <span class="pix_edit_text">
 										<strong>Saiba Mais</strong>
 									   </span>
@@ -188,7 +188,7 @@ require_once('header.php');
 									<h2 class="carousel-title secondary-font"></h2>
 									<h5 class="carousel-text secondary-font"></h5>
 									<div class="pix-slider-btn btn-xs pix-padding-top-100">
-										<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+										<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 									   <span class="pix_edit_text">
 										<strong>Saiba Mais</strong>
 									   </span>
@@ -202,7 +202,7 @@ require_once('header.php');
 									<h2 class="carousel-title secondary-font"></h2>
 									<h5 class="carousel-text secondary-font"></h5>
 									<div class="pix-slider-btn btn-xs pix-padding-top-100">
-										<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
+										<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn hero-btn btn-lg pix-white pix-margin-right-5 small-text secondary-font pix-margin-right-20">
 									   <span class="pix_edit_text">
 										<strong>Saiba Mais</strong>
 									   </span>
@@ -253,7 +253,7 @@ require_once('header.php');
 						<br>
 						Entendendo que o ser humano necessita de um cuidado integrativo, a clínica evoluiu para o segmento multidisciplinar, onde o paciente é cuidado e assistido em diversas áreas da saúde num mesmo lugar.
 						</p>
-						<a class="btn hero-btn mt-4" href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank"><strong>Quero mais informações sobre o atendimento</strong></a>
+						<a class="btn hero-btn mt-4" href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank"><strong>Quero mais informações sobre o atendimento</strong></a>
 					</div>
 				</div>
 			</div>
@@ -291,7 +291,7 @@ require_once('header.php');
 						<p class="pix-light-gray big-text-20 text-center pix-margin-bottom-30">
 							<span class="pix_edit_text">Se identificou com o nosso método de atendimento? Nos conte como podemos te ajudar</span>
 						</p>
-						<a href="https://api.whatsapp.com/send?phone=5511973755967&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn bg-lg hero-btn btn-lg pix-white wide">
+						<a href="https://api.whatsapp.com/send?phone=5511900000000&text=Ol%C3%A1%2C+estava+no+site+de+voc%C3%AAs+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank" class="btn bg-lg hero-btn btn-lg pix-white wide">
 							<span class="pix_edit_text">
 								<strong>Entre em contato</strong>
 								<i class="pixicon-whatsapp2 pix-white"></i>

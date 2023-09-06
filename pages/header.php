@@ -9,7 +9,7 @@ $customerUser = Session::getCustomerUser();
 
 
 // $whatsappLink = "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+site+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+as+consultas+com+%5Bdigite+o+profissional+que+gostaria+de+se+consultar%3A+M%C3%A9dico+Esportivo%2C+Psic%C3%B3logo%2C+Fisioterapeuta%2C+Nutricionista+Esportivo+e%2Fou+Acupunturista%5D.";
-$whatsappLink = "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+site+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+as+consultas.";
+$whatsappLink = "https://wa.me/5511900000000?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+site+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+as+consultas.";
 
 ?>
 

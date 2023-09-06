@@ -38,8 +38,8 @@ use \Source\Core\Helper;
             </div>
             <a href="<?= Config::BASE_URL ?>"><img src="<?= $themePath ?>/assets/logo-white.png" alt=""></a>
             <div class="footer-text2 pix-white">
-              <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; oi@clinicametavita.com.br</p>
-              <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 2091-2203</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; contato@seusite.com.br</p>
+              <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 0000-0000</p>
               <p><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp; <a class="pix-white" target="_blank" href="<?= Config::WHATSAPP_URL ?><?= Helper::numbersOnly(Config::WHATSAPP_NUMBER); ?>&text=<?= urlencode(Config::WHATSAPP_MESSAGE) ?>"><?= Config::WHATSAPP_NUMBER ?></a></p>
             </div>
           </div>
@@ -54,8 +54,8 @@ use \Source\Core\Helper;
           <a class="pix-white" href="https://maps.google.com/?q=Rua Vilela, 652 - Tatuapé, São Paulo - SP"  target="_blank"><strong>Ver no Google Maps</strong></a>
         </div>
         <div class="mb-2">
-          <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; oi@clinicametavita.com.br</p>
-          <p><i class="fa fa-phone pix-white" aria-hidden="true"></i>&nbsp;&nbsp; <strong>(11) 2091-2203</strong></p>
+          <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; contato@seusite.com.br</p>
+          <p><i class="fa fa-phone pix-white" aria-hidden="true"></i>&nbsp;&nbsp; <strong>(11) 0000-0000</strong></p>
            <p><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp; <a class="pix-white" target="_blank" href="<?= Config::WHATSAPP_URL ?><?= Helper::numbersOnly(Config::WHATSAPP_NUMBER); ?>&text=<?= urlencode(Config::WHATSAPP_MESSAGE) ?>"><?= Config::WHATSAPP_NUMBER ?></a></p>
         </div>
       </div>
