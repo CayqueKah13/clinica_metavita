@@ -48,9 +48,9 @@ use \Source\Core\Helper;
       <div class="col-12 d-sm-block d-md-none text-center">
         <a href="<?= Config::BASE_URL ?>"><img src="<?= $themePath ?>/assets/logo-white.png" alt=""></a>
         <div class="my-2">
-          <p>Rua Vilela, 652 - 24º andar</p>
-          <p>Tatuapé, São Paulo - SP</p>
-          <p>CEP: 03314-000</p>
+          <p>Rua Endereço vai aqui</p>
+          <p>Bairro, Cidade - Estado</p>
+          <p>CEP: 00000-000</p>
           <a class="pix-white" href="https://maps.google.com/?q=Rua Vilela, 652 - Tatuapé, São Paulo - SP"  target="_blank"><strong>Ver no Google Maps</strong></a>
         </div>
         <div class="mb-2">
