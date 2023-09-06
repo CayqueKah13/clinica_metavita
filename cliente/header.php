@@ -100,7 +100,7 @@ src="https://www.facebook.com/tr?id=2929716927272121&ev=PageView&noscript=1"
 							</a>
 						</li> -->
 						<li class="nav-item">
-							<a class="nav-link waves-effect waves-light" href="https://www.instagram.com/clinicametavita">
+							<a class="nav-link waves-effect waves-light" href="https://www.instagram.com/instagramvaiaqui">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>

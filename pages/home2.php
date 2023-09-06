@@ -325,7 +325,7 @@ require_once('header.php');
 									<h6 class="pix-brown pix-no-margin-top">
 										<span class="pix_edit_text"><strong>Médico</strong></span>
 									</h6>
-									<a href="https://www.instagram.com/feadolpho/" target="_blank" class="small-social">
+									<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 										<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 									</a>
 								</div>
@@ -341,7 +341,7 @@ require_once('header.php');
 									<h6 class="pix-brown pix-no-margin-top">
 										<span class="pix_edit_text"><strong>Nutricionista</strong></span>
 									</h6>
-									<a href="https://www.instagram.com/joaomoraisnutri/" target="_blank" class="small-social">
+									<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 										<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 									</a>
 								</div>
@@ -357,7 +357,7 @@ require_once('header.php');
 									<h6 class="pix-brown pix-no-margin-top">
 										<span class="pix_edit_text"><strong>Nutricionista</strong></span>
 									</h6>
-									<a href="https://www.instagram.com/lucas.scalabrin.nutri/" target="_blank" class="small-social">
+									<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 										<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 									</a>
 								</div>
@@ -374,7 +374,7 @@ require_once('header.php');
 										<h6 class="pix-brown pix-no-margin-top">
 											<span class="pix_edit_text"><strong>Nutricionista</strong></span>
 										</h6>
-										<a href="https://www.instagram.com/michaelmartininutri/" target="_blank" class="small-social">
+										<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 											<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 										</a>
 										</div>
@@ -390,7 +390,7 @@ require_once('header.php');
 										<h6 class="pix-brown pix-no-margin-top">
 											<span class="pix_edit_text"><strong>Nutricionista</strong></span>
 										</h6>
-										<a href="https://www.instagram.com/robertabeltrame/" target="_blank" class="small-social">
+										<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 											<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 										</a>
 									</div>
@@ -406,7 +406,7 @@ require_once('header.php');
 										<h6 class="pix-brown pix-no-margin-top">
 											<span class="pix_edit_text"><strong>Nutricionista</strong></span>
 										</h6>
-										<a href="https://www.instagram.com/viniciusmoura_nutri/" target="_blank" class="small-social">
+										<a href="https://www.instagram.com/instagramvaiaqui/" target="_blank" class="small-social">
 										<i class="pixicon-instagram4 big-icon-50 pix-slight-white"></i>
 										</a>
 									</div>
