@@ -90,7 +90,7 @@ src="https://www.facebook.com/tr?id=2929716927272121&ev=PageView&noscript=1"
 				<div class="nav-socials d-none d-lg-block ml-auto">
 					<ul class="navbar-nav ml-auto nav-flex-icons">
             <li class="nav-item">
-							<a class="nav-link waves-effect waves-light" href="https://www.facebook.com/Cl%C3%ADnica-MetaVita-Saude-e-Performance-Esportiva-101809064939591/">
+							<a class="nav-link waves-effect waves-light" href="https://www.facebook.com/linkvaiaqui/">
 								<i class="fa fa-facebook"></i>
 							</a>
 						</li>
