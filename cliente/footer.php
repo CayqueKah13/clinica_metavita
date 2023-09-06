@@ -21,7 +21,7 @@ use \Source\Core\Helper;
             <img src="<?= $themePath ?>/assets/logo-white.png" alt="">
             <div class="footer-text2">
               <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; oi@clinicametavita.com.br</p>
-              <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 2091-2203</p>
+              <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 0000-0000</p>
               <p><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp; <a target="_blank" href="<?= Config::WHATSAPP_URL ?><?= Helper::numbersOnly(Config::WHATSAPP_NUMBER); ?>&text=<?= urlencode(Config::WHATSAPP_MESSAGE) ?>"><?= Config::WHATSAPP_NUMBER ?></a></p>
             </div>
           </div>
