@@ -9,7 +9,7 @@ use \Source\Core\Config;
 $links = [
 	[
 		"title" => "Quero informações sobre consulta",
-		"link" => "https://wa.me/5511973755967?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os."
+		"link" => "https://wa.me/5511900000000?text=Ol%C3%A1%21+Vim+do+Instagram+de+voc%C3%AAs+e+gostaria+de+informa%C3%A7%C3%B5es+sobre+os+servi%C3%A7os."
 	],
 	[
 		"title" => "Conheça um pouco da experiência do atendimento MetaVita!",
@@ -22,15 +22,15 @@ $links = [
 	],
 	[
 		"title" => "Visite nosso site!",
-		"link" => "https://www.clinicametavita.com.br/links"
+		"link" => "https://www.clinicametavita.com.br/"
 	],
 	[
 		"title" => "Quero receber as dicas exclusivas da MetaFamily",
-		"link" => "https://t.me/joinchat/AAAAAEXo57gkZloiDEU6Hg"
+		"link" => "https://t.me/joinchat/linkvaiaqui"
 	],
 	[
 		"title" => "Quero acessar a área exclusiva dos MetaFriends",
-		"link" => "https://https://demo.clinicametavita.com.br/cliente/login"
+		"link" => "https://https://clinicametavita.com.br/cliente/login"
 	],
 ];
 
