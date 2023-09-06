@@ -20,7 +20,7 @@ use \Source\Core\Helper;
             </div>
             <img src="<?= $themePath ?>/assets/logo-white.png" alt="">
             <div class="footer-text2">
-              <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; oi@clinicametavita.com.br</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; contato@seusite.com.br</p>
               <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 0000-0000</p>
               <p><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp; <a target="_blank" href="<?= Config::WHATSAPP_URL ?><?= Helper::numbersOnly(Config::WHATSAPP_NUMBER); ?>&text=<?= urlencode(Config::WHATSAPP_MESSAGE) ?>"><?= Config::WHATSAPP_NUMBER ?></a></p>
             </div>
@@ -30,14 +30,14 @@ use \Source\Core\Helper;
       <div class="col-12 d-sm-block d-md-none text-center">
         <img src="<?= $themePath ?>/assets/logo-white.png" alt="">
         <div class="my-2">
-          <p>Rua Vilela, 652 - 24º andar</p>
-          <p>Tatuapé, São Paulo - SP</p>
-          <p>CEP: 03314-000</p>
+          <p>Rua Endereço vai aqui</p>
+          <p>Bairro, Cidade - Estado</p>
+          <p>CEP: 00000-000</p>
           <a href="https://maps.google.com/?q=Rua Vilela, 652 - Tatuapé, São Paulo - SP" target="_blank">Ver no Google Maps</a>
         </div>
         <div class="mb-2">
-          <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; oi@clinicametavita.com.br</p>
-          <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 2091-2203</p>
+          <p><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; contato@seusite.com.br</p>
+          <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp; (11) 0000-0000</p>
           <p><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;&nbsp; <a target="_blank" href="<?= Config::WHATSAPP_URL ?><?= Helper::numbersOnly(Config::WHATSAPP_NUMBER); ?>&text=<?= urlencode(Config::WHATSAPP_MESSAGE) ?>"><?= Config::WHATSAPP_NUMBER ?></a></p>
         </div>
       </div>
